@@ -2938,10 +2938,10 @@ faq-item
 
 #image1{
   /* border: solid black 5px; */
-  border-radius: 48px;
+  border-radius: 65px;
   /* padding: 10px; */
-  width: 100px;
-  height:100px;
+  width: 90px;
+  height:90px;
 }
 #colr{
   color:rgb(156, 52, 216);
